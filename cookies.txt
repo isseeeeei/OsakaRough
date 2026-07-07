@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.searchinc.com	TRUE	/	FALSE	1999999999	_cfuvid	agdKI3mzgVSwe.7YwVC3Gk78K7fn39PJjyz2TwxlHOA-1783093354.4065495-1.0.1.1-EqUl7q61Lf.a2zKNpPDwIm0vIOrql_e.nS8XiFF8MqY
+www.searchinc.com	TRUE	/	FALSE	1999999999	SameSite	None
+
